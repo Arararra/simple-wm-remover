@@ -1,0 +1,16 @@
+{
+  "name": "bulk-esrgan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "puppeteer": "^20.7.3",
+    "replicate": "^0.12.3"
+  }
+}
